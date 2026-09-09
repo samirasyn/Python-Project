@@ -1,4 +1,3 @@
+fastapi
 uvicorn
 groq
-pydantic
-requests
