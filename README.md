@@ -1,4 +1,3 @@
-Markdown
 # AI Destekli Lead Yönetim Sistemi
 
 Bu proje; web sitesi üzerinden kullanıcılarla etkileşime geçen, soruları yanıtlayan ve toplanan iletişim/talep verilerini (lead) anlık olarak bir yönetim paneline aktaran uçtan uca entegre bir sistemdir.
